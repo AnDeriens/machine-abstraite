@@ -1,0 +1,19 @@
+{
+  "name": "machine-abstraite",
+  "version": "0.0.1",
+  "description": "this express machine abstraite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnDeriens/machine-abstraite.git"
+  },
+  "author": "AnDeriens <katsuya.ando@gmail.com> (https://github.com/AnDeriens)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnDeriens/machine-abstraite/issues"
+  },
+  "homepage": "https://github.com/AnDeriens/machine-abstraite#readme"
+}
